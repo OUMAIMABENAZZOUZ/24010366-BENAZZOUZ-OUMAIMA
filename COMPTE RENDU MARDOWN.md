@@ -200,7 +200,3 @@ En somme, ce script transforme une base de données descriptive en un véritable
 
 .fr/Pays/IN/club-smart-city
 
-[^17]: https://fr.wikipedia.org/wiki/Étalement_urbain
-
-[^18]: https://documents.un.org/doc/undoc/gen/g16/037/92/pdf/g1603792.pdf
-
