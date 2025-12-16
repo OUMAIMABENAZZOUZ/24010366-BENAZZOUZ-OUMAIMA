@@ -9,7 +9,7 @@
 
 Ce jeu de données traite de la transformation numérique et de la modernisation des infrastructures urbaines en Inde, en analysant l'évolution de 30 villes majeures sur la période 2019-2024. La problématique centrale consiste à évaluer la progression des initiatives "Smart City" à travers des indicateurs clés tels que l'accès à Internet, la couverture haut débit (3G/4G), et l'adoption de technologies de gestion intelligente (compteurs d'eau et d'électricité, transports dynamiques), afin de mesurer la maturité digitale de ces métropoles et d'identifier les disparités technologiques régionales.
 
-[^1] OBJECTIF:L’objectif de ce rapport est de concevoir et d’évaluer un agent d’intelligence artificielle capable de prédire le niveau de maturité « Smart City » des villes indiennes à partir de leurs indicateurs d’infrastructures numériques, dans une logique de problème de classification binaire.​ en répondant est ce que une ville est développée en répondant par oui ou non
+[^1] OBJECTIF:L’objectif de ce rapport est de concevoir et d’évaluer un agent d’intelligence artificielle capable de prédire le niveau de maturité « Smart City » des villes indiennes à partir de leurs indicateurs d’infrastructures numériques, dans une logique de problème de classification binaire,( Ville Smart vs Ville non-Smart)
 
 
 ## 1- Explication du Code et des Étapes de Machine Learning
@@ -198,37 +198,7 @@ En somme, ce script transforme une base de données descriptive en un véritable
 
 <div align="center">⁂</div>
 
-[^1]: https://www.talend.com/fr/resources/cycle-vie-donnees/
-
-[^2]: https://kaizen-solutions.net/kaizen-insights/articles-et-conseils-de-nos-experts/cycle-de-vie-projet-machine-learning-8-etapes/
-
-[^3]: https://www.empirik.fr/nos-ressources/article/la-data-science-expliquee-a-ma-grand-mere-3-5-cycle-de-vie-dun-projet/
-
-[^4]: https://fr.linkedin.com/pulse/les-7-étapes-dun-projet-data-science-jérémy-bouzidi
-
-[^5]: https://www.datacamp.com/fr/blog/machine-learning-lifecycle-explained
-
-[^6]: https://logicstechnology.com/fr/blogs/news/how-2024s-smart-cities-are-leveraging-big-data
-
-[^7]: https://www.jedha.co/blog/projet-data-science-le-guide-complet-pour-bien-les-mener
-
-[^8]: https://almond.eu/digital-technology-insights/smart-city-quand-les-donnees-rendent-nos-villes-intelligentes/
-
-[^9]: http://www.universite-paris-saclay.fr/recherche/science-ouverte/le-cycle-de-vie-des-donnees
-
-[^10]: https://www.academia.edu/114767108/Dynamiques_Publiques_et_Priv%C3%A9es_autour_des_Smart_Cities_en_Inde?uc-sb-sw=113905260
-
-[^11]: https://www.lewagon.com/fr/data-science-course
-
-[^12]: https://fr.wikipedia.org/wiki/Ville_intelligente
-
-[^13]: https://www.aquiladata.fr/insights/comment-reussir-lindustrialisation-dun-projet-de-data-science/
-
-[^14]: https://fr.wikipedia.org/wiki/Smart_city
-
-[^15]: https://www.objetconnecte.com/smart-cities-la-population-consultee-avant-de-prendre-le-virage-du-futur/
-
-[^16]: https://www.tresor.economie.gouv.fr/Pays/IN/club-smart-city
+.fr/Pays/IN/club-smart-city
 
 [^17]: https://fr.wikipedia.org/wiki/Étalement_urbain
 
